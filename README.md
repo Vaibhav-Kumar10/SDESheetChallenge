@@ -1,7 +1,7 @@
 # 🚀 45-Day SDE Sheet Challenge
 
-[![Progress](https://img.shields.io/badge/Day-1%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
-[![Problems](https://img.shields.io/badge/Problems%20Solved-3%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Progress](https://img.shields.io/badge/Day-2%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-6%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 
 Solving Striver's SDE Sheet — one problem at a time. No skipping. No shortcuts.
@@ -21,10 +21,14 @@ This repo tracks my progress through [Striver's SDE Sheet](https://takeuforward.
 ```
 SDESheetChallenge/
 ├── Day01/
-│   ├── SetMatrixZeroes.cpp
-│   ├── PascalsTriangle.cpp
-│   └── NextPermutation.cpp
+│   ├── Q1.cpp
+│   ├── Q2.cpp
+│   └── Q3.cpp
 ├── Day02/
+│   ├── Q1.cpp
+│   ├── Q2.cpp
+│   └── Q3.cpp
+├── Day03/
 │   └── ...
 └── README.md
 ```
@@ -36,7 +40,7 @@ SDESheetChallenge/
 | Day | Topic | Problems | Status |
 |-----|-------|----------|--------|
 | 01 | Arrays | Set Matrix Zeroes, Pascal's Triangle, Next Permutation | ✅ |
-| 02 | Arrays | - | 🔲 |
+| 02 | Arrays | Kadane's Algorithm, Sort an array of 0's 1's and 2's, Stock Buy and Sell | ✅ |
 | 03 | Arrays | - | 🔲 |
 | ... | ... | ... | 🔲 |
 
