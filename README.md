@@ -1,7 +1,7 @@
 # 🚀 45-Day SDE Sheet Challenge
 
-[![Progress](https://img.shields.io/badge/Day-3%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
-[![Problems](https://img.shields.io/badge/Problems%20Solved-9%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Progress](https://img.shields.io/badge/Day-4%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-12%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 
 Solving Striver's SDE Sheet — one problem at a time. No skipping. No shortcuts.
@@ -33,6 +33,10 @@ SDESheetChallenge/
 │   ├── Q2.cpp
 │   └── Q3.cpp
 ├── Day04/
+│   ├── Q1.cpp
+│   ├── Q2.cpp
+│   └── Q3.cpp
+├── Day05/
 │   └── ...
 └── README.md
 ```
@@ -46,6 +50,7 @@ SDESheetChallenge/
 | 01 | Arrays | Set Matrix Zeroes, Pascal's Triangle, Next Permutation | ✅ |
 | 02 | Arrays | Kadane's Algorithm, Sort an array of 0's 1's and 2's, Stock Buy and Sell | ✅ |
 | 03 | Arrays | Rotate Image, Merge Intervals, Merge Sorted Array | ✅ |
+| 04 | Arrays | Find the Duplicate Number, Find Missing and Repeated Values, Count Inversions | ✅ |
 | ... | ... | ... | 🔲 |
 
 > Updated daily.
