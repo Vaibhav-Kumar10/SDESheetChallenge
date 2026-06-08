@@ -1,7 +1,7 @@
 # 🚀 45-Day SDE Sheet Challenge
 
-[![Progress](https://img.shields.io/badge/Day-7%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
-[![Problems](https://img.shields.io/badge/Problems%20Solved-21%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Progress](https://img.shields.io/badge/Day-8%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-24%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 
 Solving Striver's SDE Sheet — one problem at a time. No skipping. No shortcuts.
@@ -49,6 +49,10 @@ SDESheetChallenge/
 │   ├── Q2.cpp
 │   └── Q3.cpp
 ├── Day08/
+│   ├── Q1.cpp
+│   ├── Q2.cpp
+│   └── Q3.cpp
+├── Day09/
 │   └── ...
 └── README.md
 ```
@@ -66,6 +70,7 @@ SDESheetChallenge/
 | 05 | Arrays | Search a 2D Matrix, Pow(x, n), Majority Element | ✅ |
 | 06 | Arrays | Majority Element II, Unique Paths, Reverse Pairs | ✅ |
 | 07 | Arrays | Two Sum, 4Sum, Longest Consecutive Sequence | ✅ |
+| 08 | Arrays | Longest Subarray with Sum K, Count Subarrays with given XOR, Longest Substring Without Repeating Characters Sum | ✅ |
 | ... | ... | ... | 🔲 |
 
 > Updated daily.
