@@ -1,7 +1,7 @@
 # 🚀 45-Day SDE Sheet Challenge
 
-[![Progress](https://img.shields.io/badge/Day-9%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
-[![Problems](https://img.shields.io/badge/Problems%20Solved-27%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Progress](https://img.shields.io/badge/Day-10%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-30%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 
 Solving Striver's SDE Sheet — one problem at a time. No skipping. No shortcuts.
@@ -57,6 +57,10 @@ SDESheetChallenge/
 │   ├── Q2.cpp
 │   └── Q3.cpp
 ├── Day10/
+│   ├── Q1.cpp
+│   ├── Q2.cpp
+│   └── Q3.cpp
+├── Day11/
 │   └── ...
 └── README.md
 ```
@@ -76,6 +80,7 @@ SDESheetChallenge/
 | 07 | Arrays | Two Sum, 4Sum, Longest Consecutive Sequence | ✅ |
 | 08 | Arrays | Longest Subarray with Sum K, Count Subarrays with given XOR, Longest Substring Without Repeating Characters Sum | ✅ |
 | 09 | Linked List | Reverse Linked List, Middle of the Linked List, Merge Two Sorted Lists | ✅ |
+| 10 | Linked List | Remove Nth Node From End of List, Add Two Numbers, Delete Node in a Linked List | ✅ |
 | ... | ... | ... | 🔲 |
 
 > Updated daily.
