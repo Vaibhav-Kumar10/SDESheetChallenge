@@ -1,9 +1,5 @@
 // Problem: Intersection of Two Linked Lists
 // Link: https://leetcode.com/problems/intersection-of-two-linked-lists/
-// Approach: Use two pointers - fast and slow. Move them with different speeds. 
-// When they meet => 
-// if it is null => no intersection
-// else => they intersect
 /**
  * Definition for singly-linked list.
  * struct ListNode {
