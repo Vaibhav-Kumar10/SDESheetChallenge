@@ -1,7 +1,7 @@
 # 🚀 45-Day SDE Sheet Challenge
 
-[![Progress](https://img.shields.io/badge/Day-13%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
-[![Problems](https://img.shields.io/badge/Problems%20Solved-39%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Progress](https://img.shields.io/badge/Day-14%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-42%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 
 Solving Striver's SDE Sheet — one problem at a time. No skipping. No shortcuts.
@@ -73,6 +73,10 @@ SDESheetChallenge/
 │   ├── Q2.cpp
 │   └── Q3.cpp
 ├── Day14/
+│   ├── Q1.cpp
+│   ├── Q2.cpp
+│   └── Q3.cpp
+├── Day15/
 │   └── ...
 └── README.md
 ```
@@ -96,6 +100,7 @@ SDESheetChallenge/
 | 11 | Linked List | Intersection of Two Linked Lists, Linked List Cycle, Reverse Nodes in k-Group | ✅ |
 | 12 | Linked List | Palindrome Linked List, Linked List Cycle II, Flattening a Linked List | ✅ |
 | 13 | Linked List and Arrays | Rotate List, Copy List with Random Pointer, 3Sum | ✅ |
+| 14 | Linked List and Arrays | Trapping Rain Water, Remove Duplicates from Sorted Array, Max Consecutive Ones | ✅ |
 | ... | ... | ... | 🔲 |
 
 > Updated daily.
@@ -105,7 +110,7 @@ SDESheetChallenge/
 ## 🗂️ Topics Covered
 
 - [x] Arrays
-- [ ] Linked List
+- [X] Linked List
 - [ ] Greedy
 - [ ] Recursion & Backtracking
 - [ ] Binary Search
