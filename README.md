@@ -1,7 +1,7 @@
 # 🚀 45-Day SDE Sheet Challenge
 
-[![Progress](https://img.shields.io/badge/Day-16%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
-[![Problems](https://img.shields.io/badge/Problems%20Solved-50%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Progress](https://img.shields.io/badge/Day-17%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-54%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 
 Solving Striver's SDE Sheet — one problem at a time. No skipping. No shortcuts.
@@ -87,6 +87,11 @@ SDESheetChallenge/
 │   └── Q3.cpp
 │   └── Q4.cpp
 ├── Day17/
+│   ├── Q1.cpp
+│   ├── Q2.cpp
+│   └── Q3.cpp
+│   └── Q4.cpp
+├── Day18/
 │   └── ...
 └── README.md
 ```
@@ -112,7 +117,8 @@ SDESheetChallenge/
 | 13 | Linked List and Arrays | Rotate List, Copy List with Random Pointer, 3Sum | ✅ |
 | 14 | Linked List and Arrays | Trapping Rain Water, Remove Duplicates from Sorted Array, Max Consecutive Ones | ✅ |
 | 15 | Greedy | Activity Selection, Minimum Platforms, Job Sequencing Problem, Fractional Knapsack | ✅ |
-| 16 | Greedy and recursion | Assign Cookies, Coin Change, Subset Sums, Subsets II | ✅ |
+| 16 | Greedy and Recursion | Assign Cookies, Coin Change, Subset Sums, Subsets II | ✅ |
+| 17 | Recursion | Combination Sum, Combination Sum II, Palindrome Partitioning, Permutation Sequence | ✅ |
 | ... | ... | ... | 🔲 |
 
 > Updated daily.
