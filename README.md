@@ -1,7 +1,7 @@
 # 🚀 45-Day SDE Sheet Challenge
 
-[![Progress](https://img.shields.io/badge/Day-18%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
-[![Problems](https://img.shields.io/badge/Problems%20Solved-57%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Progress](https://img.shields.io/badge/Day-19%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-60%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 
 Solving Striver's SDE Sheet — one problem at a time. No skipping. No shortcuts.
@@ -96,6 +96,10 @@ SDESheetChallenge/
 │   ├── Q2.cpp
 │   └── Q3.cpp
 ├── Day19/
+│   ├── Q1.cpp
+│   ├── Q2.cpp
+│   └── Q3.cpp
+├── Day20/
 │   └── ...
 └── README.md
 ```
@@ -124,6 +128,7 @@ SDESheetChallenge/
 | 16 | Greedy and Recursion | Assign Cookies, Coin Change, Subset Sums, Subsets II | ✅ |
 | 17 | Recursion | Combination Sum, Combination Sum II, Palindrome Partitioning, Permutation Sequence | ✅ |
 | 18 | Recursion | Permutations, N-Queens, Sudoku Solver | ✅ |
+| 19 | Recursion |  M-Coloring Problem, Rat in a Maze, Sudoku Solver | ✅ |
 | ... | ... | ... | 🔲 |
 
 > Updated daily.
