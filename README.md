@@ -1,7 +1,7 @@
 # 🚀 45-Day SDE Sheet Challenge
 
-[![Progress](https://img.shields.io/badge/Day-20%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
-[![Problems](https://img.shields.io/badge/Problems%20Solved-64%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Progress](https://img.shields.io/badge/Day-21%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-68%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 
 Solving Striver's SDE Sheet — one problem at a time. No skipping. No shortcuts.
@@ -105,6 +105,11 @@ SDESheetChallenge/
 │   └── Q3.cpp
 │   └── Q4.cpp
 ├── Day21/
+│   ├── Q1.cpp
+│   ├── Q2.cpp
+│   └── Q3.cpp
+│   └── Q4.cpp
+├── Day22/
 │   └── ...
 └── README.md
 ```
@@ -135,6 +140,7 @@ SDESheetChallenge/
 | 18 | Recursion | Permutations, N-Queens, Sudoku Solver | ✅ |
 | 19 | Recursion | M-Coloring Problem, Rat in a Maze, Sudoku Solver | ✅ |
 | 20 | Binary Search | Find nth root of m, Median in a row-wise sorted Matrix, Single Among Doubles in a Sorted, Search in Rotated Sorted Array | ✅ |
+| 21 | Binary Search | Median of 2 Sorted Arrays of Different Sizes, K-th element of two Arrays, Allocate Minimum Pages, Aggressive Cows | ✅ |
 | ... | ... | ... | 🔲 |
 
 > Updated daily.
@@ -147,7 +153,7 @@ SDESheetChallenge/
 - [X] Linked List
 - [x] Greedy
 - [x] Recursion & Backtracking
-- [ ] Binary Search
+- [x] Binary Search
 - [ ] Heaps
 - [ ] Stacks & Queues
 - [ ] Strings
