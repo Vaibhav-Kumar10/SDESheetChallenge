@@ -1,7 +1,7 @@
 # 🚀 45-Day SDE Sheet Challenge
 
-[![Progress](https://img.shields.io/badge/Day-21%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
-[![Problems](https://img.shields.io/badge/Problems%20Solved-68%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Progress](https://img.shields.io/badge/Day-22%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-71%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 
 Solving Striver's SDE Sheet — one problem at a time. No skipping. No shortcuts.
@@ -110,6 +110,10 @@ SDESheetChallenge/
 │   └── Q3.cpp
 │   └── Q4.cpp
 ├── Day22/
+│   ├── Q1.cpp
+│   ├── Q2.cpp
+│   └── Q3.cpp
+├── Day23/
 │   └── ...
 └── README.md
 ```
@@ -141,6 +145,7 @@ SDESheetChallenge/
 | 19 | Recursion | M-Coloring Problem, Rat in a Maze, Sudoku Solver | ✅ |
 | 20 | Binary Search | Find nth root of m, Median in a row-wise sorted Matrix, Single Among Doubles in a Sorted, Search in Rotated Sorted Array | ✅ |
 | 21 | Binary Search | Median of 2 Sorted Arrays of Different Sizes, K-th element of two Arrays, Allocate Minimum Pages, Aggressive Cows | ✅ |
+| 22 | Heaps | Max Heap implementation, Kth largest element, Maximum Sum Combination | ✅ |
 | ... | ... | ... | 🔲 |
 
 > Updated daily.
