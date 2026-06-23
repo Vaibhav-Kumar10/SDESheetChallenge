@@ -1,7 +1,7 @@
 # 🚀 45-Day SDE Sheet Challenge
 
 [![Progress](https://img.shields.io/badge/Day-22%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
-[![Problems](https://img.shields.io/badge/Problems%20Solved-71%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-74%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 
 Solving Striver's SDE Sheet — one problem at a time. No skipping. No shortcuts.
@@ -113,7 +113,10 @@ SDESheetChallenge/
 │   ├── Q1.cpp
 │   ├── Q2.cpp
 │   └── Q3.cpp
-├── Day23/
+│   ├── Q1.cpp
+│   ├── Q2.cpp
+│   └── Q3.cpp
+├── Day24/
 │   └── ...
 └── README.md
 ```
@@ -146,6 +149,7 @@ SDESheetChallenge/
 | 20 | Binary Search | Find nth root of m, Median in a row-wise sorted Matrix, Single Among Doubles in a Sorted, Search in Rotated Sorted Array | ✅ |
 | 21 | Binary Search | Median of 2 Sorted Arrays of Different Sizes, K-th element of two Arrays, Allocate Minimum Pages, Aggressive Cows | ✅ |
 | 22 | Heaps | Max Heap implementation, Kth largest element, Maximum Sum Combination | ✅ |
+| 23 | Heaps | Find Median from Data Stream, Merge k Sorted Arrays, Top K Frequent Elements | ✅ |
 | ... | ... | ... | 🔲 |
 
 > Updated daily.
@@ -159,7 +163,7 @@ SDESheetChallenge/
 - [x] Greedy
 - [x] Recursion & Backtracking
 - [x] Binary Search
-- [ ] Heaps
+- [x] Heaps
 - [ ] Stacks & Queues
 - [ ] Strings
 - [ ] Binary Trees
