@@ -1,7 +1,7 @@
 # 🚀 45-Day SDE Sheet Challenge
 
-[![Progress](https://img.shields.io/badge/Day-25%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
-[![Problems](https://img.shields.io/badge/Problems%20Solved-81%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Progress](https://img.shields.io/badge/Day-26%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-84%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 
 Solving Striver's SDE Sheet — one problem at a time. No skipping. No shortcuts.
@@ -126,7 +126,11 @@ SDESheetChallenge/
 │   ├── Q1.cpp
 │   ├── Q2.cpp
 │   └── Q3.cpp
-├── Day265/
+├── Day26/
+│   ├── Q1.cpp
+│   ├── Q2.cpp
+│   └── Q3.cpp
+├── Day27/
 │   └── ...
 └── README.md
 ```
@@ -162,6 +166,7 @@ SDESheetChallenge/
 | 23 | Heaps | Find Median from Data Stream, Merge k Sorted Arrays, Top K Frequent Elements | ✅ |
 | 24 | Stacks & Queues | Implement stack using array, Queue Using Array, Stack using Queue, Queue using Stack | ✅ |
 | 25 | Stacks & Queues | Valid Parentheses, Next Greater Element I, Sort a stack | ✅ |
+| 26 | Stacks & Queues | Next Smaller Element, LRU Cache, LFU Cache | ✅ |
 | ... | ... | ... | 🔲 |
 
 > Updated daily.
