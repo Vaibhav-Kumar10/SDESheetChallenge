@@ -1,7 +1,7 @@
 # 🚀 45-Day SDE Sheet Challenge
 
-[![Progress](https://img.shields.io/badge/Day-27%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
-[![Problems](https://img.shields.io/badge/Problems%20Solved-88%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Progress](https://img.shields.io/badge/Day-28%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-91%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 
 Solving Striver's SDE Sheet — one problem at a time. No skipping. No shortcuts.
@@ -136,6 +136,10 @@ SDESheetChallenge/
 │   └── Q3.cpp
 │   └── Q4.cpp
 ├── Day28/
+│   ├── Q1.cpp
+│   ├── Q2.cpp
+│   └── Q3.cpp
+├── Day29/
 │   └── ...
 └── README.md
 ```
@@ -173,6 +177,7 @@ SDESheetChallenge/
 | 25 | Stacks & Queues | Valid Parentheses, Next Greater Element I, Sort a stack | ✅ |
 | 26 | Stacks & Queues | Next Smaller Element, LRU Cache, LFU Cache | ✅ |
 | 27 | Stacks & Queues | Largest Rectangle in Histogram, Sliding Window Maximum, Min Stack, Rotting Oranges | ✅ |
+| 28 | Stacks & Queues | Online Stock Span, Max of min for every window size, The Celebrity Problem | ✅ |
 | ... | ... | ... | 🔲 |
 
 > Updated daily.
