@@ -1,7 +1,7 @@
 # 🚀 45-Day SDE Sheet Challenge
 
-[![Progress](https://img.shields.io/badge/Day-29%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
-[![Problems](https://img.shields.io/badge/Problems%20Solved-93%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Progress](https://img.shields.io/badge/Day-30%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-96%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 
 Solving Striver's SDE Sheet — one problem at a time. No skipping. No shortcuts.
@@ -144,6 +144,10 @@ SDESheetChallenge/
 │   ├── Q2.cpp
 │   └── Q3.cpp
 ├── Day30/
+│   ├── Q1.cpp
+│   ├── Q2.cpp
+│   └── Q3.cpp
+├── Day31/
 │   └── ...
 └── README.md
 ```
@@ -183,6 +187,7 @@ SDESheetChallenge/
 | 27 | Stacks & Queues | Largest Rectangle in Histogram, Sliding Window Maximum, Min Stack, Rotting Oranges | ✅ |
 | 28 | Stacks & Queues | Online Stock Span, Max of min for every window size, The Celebrity Problem | ✅ |
 | 29 | Strings | Reverse Words in a String, Longest Palindromic Substring, Roman to Integer | ✅ |
+| 30 | Strings | String to Integer (atoi), Longest Common Prefix, Repeated String Match | ✅ |
 | ... | ... | ... | 🔲 |
 
 > Updated daily.
