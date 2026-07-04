@@ -1,7 +1,7 @@
 # 🚀 45-Day SDE Sheet Challenge
 
-[![Progress](https://img.shields.io/badge/Day-33%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
-[![Problems](https://img.shields.io/badge/Problems%20Solved-106%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Progress](https://img.shields.io/badge/Day-34%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-110%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 
 Solving Striver's SDE Sheet — one problem at a time. No skipping. No shortcuts.
@@ -161,6 +161,11 @@ SDESheetChallenge/
 │   └── Q3.cpp
 │   └── Q4.cpp
 ├── Day34/
+│   ├── Q1.cpp
+│   ├── Q2.cpp
+│   └── Q3.cpp
+│   └── Q4.cpp
+├── Day35/
 │   └── ...
 └── README.md
 ```
@@ -204,6 +209,7 @@ SDESheetChallenge/
 | 31 | Strings | Search Pattern, Find the Index of the First Occurrence in a String, Minimum Insertion Steps to Make a String Palindrome | ✅ |
 | 32 | Strings | Valid Anagram, Count and Say, Compare Version Numbers | ✅ |
 | 33 | Trees | Binary Tree Inorder Traversal, Binary Tree Preorder Traversal, Binary Tree Postorder Traversal, Morris Inorder Traversal | ✅ |
+| 34 | Trees | Morris Preorder Traversal, Right / Left View of Binary Tree, Top View of Binary Tree, Bottom View of Binary Tree | ✅ |
 | ... | ... | ... | 🔲 |
 
 > Updated daily.
