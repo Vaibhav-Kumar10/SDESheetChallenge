@@ -1,7 +1,7 @@
 # 🚀 45-Day SDE Sheet Challenge
 
-[![Progress](https://img.shields.io/badge/Day-35%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
-[![Problems](https://img.shields.io/badge/Problems%20Solved-114%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Progress](https://img.shields.io/badge/Day-36%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-118%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 
 Solving Striver's SDE Sheet — one problem at a time. No skipping. No shortcuts.
@@ -171,6 +171,11 @@ SDESheetChallenge/
 │   └── Q3.cpp
 │   └── Q4.cpp
 ├── Day36/
+│   ├── Q1.cpp
+│   ├── Q2.cpp
+│   └── Q3.cpp
+│   └── Q4.cpp
+├── Day37/
 │   └── ...
 └── README.md
 ```
@@ -214,8 +219,9 @@ SDESheetChallenge/
 | 31 | Strings | Search Pattern, Find the Index of the First Occurrence in a String, Minimum Insertion Steps to Make a String Palindrome | ✅ |
 | 32 | Strings | Valid Anagram, Count and Say, Compare Version Numbers | ✅ |
 | 33 | Trees | Binary Tree Inorder Traversal, Binary Tree Preorder Traversal, Binary Tree Postorder Traversal, Morris Inorder Traversal | ✅ |
-| 34 | Trees | Morris Preorder Traversal, Right / Left View of Binary Tree, Top View of Binary Tree, Bottom View of Binary Tree | ✅ |
-| 35 | Trees | Pre, Post, Inorder in one traversal, Root to Leaf Paths, Vertical Order Traversal of a Binary Tree, Maximum Width of Binary Tree of Binary Tree | ✅ |
+| 34 | Trees | Morris Preorder Traversal, Right / Left View of Binary Tree, Top View of Binary Tree, Bottom View of Binary Tree | ✅ |✅ |
+| 35 | Trees | Pre, Post, Inorder in one traversal, Root to Leaf Paths, Vertical Order Traversal of a Binary Tree, Maximum Width of Binary Tree of Binary Tree | 
+| 36 | Trees | Binary Tree Level Order Traversal, Maximum Depth of Binary Tree, Diameter of Binary Tree, Balanced Binary Tree | ✅ |
 | ... | ... | ... | 🔲 |
 
 > Updated daily.
