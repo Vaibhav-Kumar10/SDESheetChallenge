@@ -1,7 +1,7 @@
 # 🚀 45-Day SDE Sheet Challenge
 
-[![Progress](https://img.shields.io/badge/Day-37%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
-[![Problems](https://img.shields.io/badge/Problems%20Solved-122%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Progress](https://img.shields.io/badge/Day-38%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-125%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 
 Solving Striver's SDE Sheet — one problem at a time. No skipping. No shortcuts.
@@ -181,6 +181,10 @@ SDESheetChallenge/
 │   └── Q3.cpp
 │   └── Q4.cpp
 ├── Day38/
+│   ├── Q1.cpp
+│   ├── Q2.cpp
+│   └── Q3.cpp
+├── Day39/
 │   └── ...
 └── README.md
 ```
@@ -228,6 +232,7 @@ SDESheetChallenge/
 | 35 | Trees | Pre, Post, Inorder in one traversal, Root to Leaf Paths, Vertical Order Traversal of a Binary Tree, Maximum Width of Binary Tree of Binary Tree | 
 | 36 | Trees | Binary Tree Level Order Traversal, Maximum Depth of Binary Tree, Diameter of Binary Tree, Balanced Binary Tree | ✅ |
 | 37 | Trees | Lowest Common Ancestor of a Binary Tree, Same Tree, Binary Tree Zigzag Level Order Traversal, Tree Boundary Traversal | ✅ |
+| 38 | Trees | Binary Tree Maximum Path Sum, Construct Binary Tree from Preorder and Inorder Traversal, Construct Binary Tree from Inorder and Postorder Traversal | ✅ |
 | ... | ... | ... | 🔲 |
 
 > Updated daily.
