@@ -1,7 +1,7 @@
 # 🚀 45-Day SDE Sheet Challenge
 
-[![Progress](https://img.shields.io/badge/Day-40%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
-[![Problems](https://img.shields.io/badge/Problems%20Solved-132%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Progress](https://img.shields.io/badge/Day-41%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-136%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 
 Solving Striver's SDE Sheet — one problem at a time. No skipping. No shortcuts.
@@ -194,6 +194,11 @@ SDESheetChallenge/
 │   ├── Q2.cpp
 │   └── Q3.cpp
 ├── Day41/
+│   ├── Q1.cpp
+│   ├── Q2.cpp
+│   └── Q3.cpp
+│   └── Q4.cpp
+├── Day42/
 │   └── ...
 └── README.md
 ```
@@ -244,6 +249,7 @@ SDESheetChallenge/
 | 38 | Trees | Binary Tree Maximum Path Sum, Construct Binary Tree from Preorder and Inorder Traversal, Construct Binary Tree from Inorder and Postorder Traversal | ✅ |
 | 39 | Trees | Symmetric Tree, Flatten Binary Tree to Linked List, Children Sum in a Binary Tree | ✅ |
 | 40 | BST | Populating Next Right Pointers in Each Node, Search in a Binary Search Tree, Convert Sorted Array to Binary Search Tree | ✅ |
+| 41 | BST | Construct Binary Search Tree from Preorder Traversal, Validate Binary Search Tree, Lowest Common Ancestor of a Binary Search Tree, Predecessor and Successor | ✅ |
 | ... | ... | ... | 🔲 |
 
 > Updated daily.
