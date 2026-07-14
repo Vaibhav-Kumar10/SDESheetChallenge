@@ -1,7 +1,7 @@
 # 🚀 45-Day SDE Sheet Challenge
 
-[![Progress](https://img.shields.io/badge/Day-43%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
-[![Problems](https://img.shields.io/badge/Problems%20Solved-144%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Progress](https://img.shields.io/badge/Day-44%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-147%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 
 Solving Striver's SDE Sheet — one problem at a time. No skipping. No shortcuts.
@@ -209,6 +209,10 @@ SDESheetChallenge/
 │   └── Q3.cpp
 │   └── Q4.cpp
 ├── Day44/
+│   ├── Q1.cpp
+│   ├── Q2.cpp
+│   └── Q3.cpp
+├── Day45/
 │   └── ...
 └── README.md
 ```
@@ -261,6 +265,7 @@ SDESheetChallenge/
 | 40 | BST | Populating Next Right Pointers in Each Node, Search in a Binary Search Tree, Convert Sorted Array to Binary Search Tree | ✅ |
 | 41 | BST | Floor in BST, Ceil in BST, Kth Smallest Element in a BST, Kth Largest in BST | ✅ |
 | 43 | BST | Two Sum IV - Input is a BST, Binary Search Tree Iterator,  Maximum Sum BST in Binary Tree, Serialize and Deserialize Binary Tree | ✅ |
+| 44 | BST | Flatten Binary Tree to Linked List, Find Median from Data Stream, Kth Largest Element in a Stream | ✅ |
 | ... | ... | ... | 🔲 |
 
 > Updated daily.
