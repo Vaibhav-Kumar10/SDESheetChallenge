@@ -1,4 +1,4 @@
-// Problem: Distinct Numbers in Each Subarray
+// Problem: DFS of Graph
 // Link: https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1
 class Solution {
   public:
