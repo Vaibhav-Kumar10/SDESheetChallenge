@@ -1,4 +1,4 @@
-// Problem: Distinct Numbers in Each Subarray
+// Problem: BFS of graph
 // Link: https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1
 class Solution {
   public:
