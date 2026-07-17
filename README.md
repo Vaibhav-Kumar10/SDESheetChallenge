@@ -269,7 +269,8 @@ SDESheetChallenge/
 | 38 | Trees | Binary Tree Maximum Path Sum, Construct Binary Tree from Preorder and Inorder Traversal, Construct Binary Tree from Inorder and Postorder Traversal | ✅ |
 | 39 | Trees | Symmetric Tree, Flatten Binary Tree to Linked List, Children Sum in a Binary Tree | ✅ |
 | 40 | BST | Populating Next Right Pointers in Each Node, Search in a Binary Search Tree, Convert Sorted Array to Binary Search Tree | ✅ |
-| 41 | BST | Floor in BST, Ceil in BST, Kth Smallest Element in a BST, Kth Largest in BST | ✅ |
+| 41 | BST | Construct Binary Search Tree from Preorder Traversal, Validate Binary Search Tree, Lowest Common Ancestor of a Binary Search Tree, Predecessor and Successor | ✅ |
+| 42 | BST | Floor in BST, Ceil in BST, Kth Smallest Element in a BST, Kth Largest in BST | ✅ |
 | 43 | BST | Two Sum IV - Input is a BST, Binary Search Tree Iterator,  Maximum Sum BST in Binary Tree, Serialize and Deserialize Binary Tree | ✅ |
 | 44 | BST | Flatten Binary Tree to Linked List, Find Median from Data Stream, Kth Largest Element in a Stream | ✅ |
 | 45 | BST | Distinct Numbers in Each Subarray, Kth Largest Element in an Array, Flood Fill | ✅ |
