@@ -1,7 +1,7 @@
 # 🚀 45-Day SDE Sheet Challenge
 
-[![Progress](https://img.shields.io/badge/Day-47%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
-[![Problems](https://img.shields.io/badge/Problems%20Solved-153%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Progress](https://img.shields.io/badge/Day-48%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-156%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 
 Solving Striver's SDE Sheet — one problem at a time. No skipping. No shortcuts.
@@ -224,6 +224,10 @@ SDESheetChallenge/
 │   ├── Q1.cpp
 │   ├── Q2.cpp
 │   └── Q3.cpp
+├── Day48/
+│   ├── Q1.cpp
+│   ├── Q2.cpp
+│   └── Q3.cpp
 └── README.md
 ```
 
@@ -280,6 +284,7 @@ SDESheetChallenge/
 | 45 | BST | Distinct Numbers in Each Subarray, Kth Largest Element in an Array, Flood Fill | ✅ |
 | 46 | Graphs | Clone Graph, DFS of Graph, BFS of graph | ✅ |
 | 47 | Graphs | Detect A cycle in Undirected Graph using BFS, Detect A cycle in Undirected Graph using DFS, Detect A cycle in Directed Graph using DFS | ✅ |
+| 48 | Graphs | Detect A cycle in Directed Graph using DFS, Topological Sort BFS, Topological Sort DFS | ✅ |
 | ... | ... | ... | 🔲 |
 
 > Updated daily.
