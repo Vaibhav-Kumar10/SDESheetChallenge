@@ -1,7 +1,7 @@
 # 🚀 45-Day SDE Sheet Challenge
 
-[![Progress](https://img.shields.io/badge/Day-50%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
-[![Problems](https://img.shields.io/badge/Problems%20Solved-162%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Progress](https://img.shields.io/badge/Day-51%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-165%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 
 Solving Striver's SDE Sheet — one problem at a time. No skipping. No shortcuts.
@@ -236,6 +236,10 @@ SDESheetChallenge/
 │   ├── Q1.cpp
 │   ├── Q2.cpp
 │   └── Q3.cpp
+├── Day51/
+│   ├── Q1.cpp
+│   ├── Q2.cpp
+│   └── Q3.cpp
 └── README.md
 ```
 
@@ -295,6 +299,7 @@ SDESheetChallenge/
 | 48 | Graphs | Detect A cycle in Directed Graph using DFS, Topological Sort BFS, Topological Sort DFS | ✅ |
 | 49 | Graphs | Number of Islands, Bipartite graph, Bipartite Check using DFS | ✅ |
 | 50 | Graphs | Maximum Number of Non-Overlapping Substrings, Dijkstra Algorithm, Bellman-Ford | ✅ |
+| 51 | Graphs | Floyd Warshall, Minimum Spanning Tree, Minimum Spanning Tree - Kruskal's Algorithm | ✅ |
 | ... | ... | ... | 🔲 |
 
 > Updated daily.
