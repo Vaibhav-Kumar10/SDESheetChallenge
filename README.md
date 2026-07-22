@@ -1,7 +1,7 @@
 # 🚀 45-Day SDE Sheet Challenge
 
-[![Progress](https://img.shields.io/badge/Day-51%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
-[![Problems](https://img.shields.io/badge/Problems%20Solved-165%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Progress](https://img.shields.io/badge/Day-52%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-168%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 
 Solving Striver's SDE Sheet — one problem at a time. No skipping. No shortcuts.
@@ -240,6 +240,10 @@ SDESheetChallenge/
 │   ├── Q1.cpp
 │   ├── Q2.cpp
 │   └── Q3.cpp
+├── Day52/
+│   ├── Q1.cpp
+│   ├── Q2.cpp
+│   └── Q3.cpp
 └── README.md
 ```
 
@@ -300,6 +304,7 @@ SDESheetChallenge/
 | 49 | Graphs | Number of Islands, Bipartite graph, Bipartite Check using DFS | ✅ |
 | 50 | Graphs | Maximum Number of Non-Overlapping Substrings, Dijkstra Algorithm, Bellman-Ford | ✅ |
 | 51 | Graphs | Floyd Warshall, Minimum Spanning Tree, Minimum Spanning Tree - Kruskal's Algorithm | ✅ |
+| 52 | Dynamic Programming | Maximum Product Subarray, Longest Increasing Subsequence, Longest Common Subsequence | ✅ |
 | ... | ... | ... | 🔲 |
 
 > Updated daily.
@@ -318,7 +323,7 @@ SDESheetChallenge/
 - [x] Strings
 - [x] Binary Trees
 - [x] BST
-- [ ] Graphs
+- [x] Graphs
 - [ ] Dynamic Programming
 
 ---
