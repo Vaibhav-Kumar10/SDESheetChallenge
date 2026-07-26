@@ -1,7 +1,7 @@
 # 🚀 45-Day SDE Sheet Challenge
 
-[![Progress](https://img.shields.io/badge/Day-55%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
-[![Problems](https://img.shields.io/badge/Problems%20Solved-179%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Progress](https://img.shields.io/badge/Day-56%2F45-orange?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
+[![Problems](https://img.shields.io/badge/Problems%20Solved-181%2F191-brightgreen?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)](https://github.com/Vaibhav-Kumar10/SDESheetChallenge)
 
 Solving Striver's SDE Sheet — one problem at a time. No skipping. No shortcuts.
@@ -257,6 +257,9 @@ SDESheetChallenge/
 │   ├── Q1.cpp
 │   ├── Q2.cpp
 │   └── Q3.cpp
+├── Day56/
+│   ├── Q1.cpp
+│   ├── Q2.cpp
 └── README.md
 ```
 
@@ -321,6 +324,7 @@ SDESheetChallenge/
 | 53 | Dynamic Programming | 0 - 1 Knapsack Problem, Edit Distance, Max Sum Increasing Subsequence, Matrix Chain Multiplication | ✅ |
 | 54 | Dynamic Programming | Minimum Path Sum, Coin Change II, Subset Sum Problem | ✅ |
 | 55 | Dynamic Programming | Rod Cutting, Super Egg Drop, Word Break | ✅ |
+| 56 | Dynamic Programming | Palindrome Partitioning II, Maximum Profit in Job Scheduling | ✅ |
 | ... | ... | ... | 🔲 |
 
 > Updated daily.
